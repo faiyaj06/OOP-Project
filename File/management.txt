@@ -1,0 +1,4 @@
+1;player;messi;inter miami;500 m
+2;player;ronaldo;al naser; 100 m
+3;coach;pepe gardiola;man city; 20 m
+4;player;neymar;inter miami; 100 m

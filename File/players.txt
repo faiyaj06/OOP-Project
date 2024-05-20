@@ -1,0 +1,1 @@
+7;Ronaldo;36;Portugal;200000.0;2.5;7;CF;Right;2.0;Al Naseer;827;Real Madrid
